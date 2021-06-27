@@ -16,4 +16,4 @@ Life care Theme is an website template based on a medical laboratory organizatio
 
 ## Project Preview:
 
-(https://ali-tahir4024.github.io/Life-care-Theme/).
+[Life Care Theme](https://alitahir4024.github.io/Life-care-Theme/)
